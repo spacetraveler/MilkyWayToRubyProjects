@@ -1,4 +1,4 @@
-# MilkyWayToRubyProjects
+# The Milky Way to Ruby projects.
 
 Our mission dives into the space of unidentified development processes.
 Various models arch across the software galaxy, abstracting actual patterns of thought within individual approaches. 
